@@ -5,7 +5,7 @@ import (
 	"go/ast"
 	"strings"
 
-	"github.com/informalsystems/gosec/v2"
+	"github.com/orijtech/gosec/v2"
 )
 
 type deferType struct {

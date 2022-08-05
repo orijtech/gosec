@@ -3,7 +3,7 @@ package main
 import (
 	"testing"
 
-	"github.com/informalsystems/gosec/v2"
+	"github.com/orijtech/gosec/v2"
 	. "github.com/onsi/ginkgo"
 	. "github.com/onsi/gomega"
 )

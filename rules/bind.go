@@ -18,7 +18,7 @@ import (
 	"go/ast"
 	"regexp"
 
-	"github.com/informalsystems/gosec/v2"
+	"github.com/orijtech/gosec/v2"
 )
 
 // Looks for net.Listen("0.0.0.0") or net.Listen(":8080")

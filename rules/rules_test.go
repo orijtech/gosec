@@ -7,9 +7,9 @@ import (
 	. "github.com/onsi/ginkgo"
 	. "github.com/onsi/gomega"
 
-	"github.com/informalsystems/gosec/v2"
-	"github.com/informalsystems/gosec/v2/rules"
-	"github.com/informalsystems/gosec/v2/testutils"
+	"github.com/orijtech/gosec/v2"
+	"github.com/orijtech/gosec/v2/rules"
+	"github.com/orijtech/gosec/v2/testutils"
 )
 
 var _ = Describe("gosec rules", func() {
